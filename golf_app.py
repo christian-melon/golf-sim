@@ -7,7 +7,7 @@ import os
 
 # --- PAGE CONFIGURATION ---
 st.set_page_config(page_title="Golf AI Analyzer", layout="wide")
-st.title("⛳ AI Golf Swing Analyzer 2")
+st.title("⛳ AI Golf Swing Analyzer")
 
 # --- SIDEBAR SETTINGS ---
 st.sidebar.header("Settings")
